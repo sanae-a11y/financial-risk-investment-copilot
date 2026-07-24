@@ -1,6 +1,6 @@
 # Financial Risk & Investment Copilot
 
-Agentic AI portfolio decision-support platform built to demonstrate skills required for AI Engineer roles:
+Agentic AI portfolio decision-support platform:
 
 - LangGraph agentic workflow
 - FastAPI backend
